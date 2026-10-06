@@ -8,6 +8,7 @@
 
 # Bảng test case
 Trường hợp kiểm thử / Dữ liệu đầu vào / Kết quả sai thực tế / Kết quả đúng mong đợi.
+-----------------------------------------------------------------------
  Điều phối xe đầu hàng đợi /
  waitingQueue = ['29A-112.33', '30E-889.12', '51K-678.99'] /
  pop() lấy 51K-678.99 → xe cuối hàng đợi được điều phối trước /
