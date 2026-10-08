@@ -6,7 +6,7 @@ const hontelRooms = [
 
 hontelRooms.push({roomId:"P104",roomType:"VIP Suite",pricePerNight:3500000,status:"VACANT"});
 
-for(room of hontelRooms){
+for(const room of hontelRooms){
     if(room.roomId === "P101"){
         room.status = "OCCUPIED"
     }
